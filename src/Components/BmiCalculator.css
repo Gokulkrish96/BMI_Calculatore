@@ -25,11 +25,12 @@ body{
     display: flex;
 }
 .box{
-    width: 400px;
+    width: 350px;
    
     background-image: url("../Asset/Bmi.png");
     background-repeat: no-repeat;
     background-position: center;
+    background-size: 100%;
 }
 .data{
     flex: 1;
